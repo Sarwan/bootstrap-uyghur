@@ -15,7 +15,7 @@ twitter bootstap for uyghur language
 * ئۇيغۇرچە كىرگۈزگۈچ قوشۇلغان(يۇلغۇن تور بىكىتى تەمىنلىگەن)
 
 ### ئەسلى تۈر
-https://github.com/twitter/bootstrap
+https://github.com/twbs/bootstrap
 
 ### يۈنۈلۈش ئۆزگەرتىش قۇرالى
 http://cssjanus.commoner.com/
@@ -24,4 +24,4 @@ http://cssjanus.commoner.com/
 http://www.yulghun.com/news/vkb.html
 
 ### bootstrap قوللانمىسى
-http://twitter.github.io/bootstrap/index.html
+http://getbootstrap.com/getting-started/
