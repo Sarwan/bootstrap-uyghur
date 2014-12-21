@@ -25,3 +25,5 @@ http://www.yulghun.com/news/vkb.html
 
 ### bootstrap قوللانمىسى
 http://getbootstrap.com/getting-started/
+### سىناق ئادرىسى
+http://lab.uyghurdev.net/bootstrapuyghur/bootstrap-uyghur-master/Test.html
